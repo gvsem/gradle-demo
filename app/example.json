@@ -1,0 +1,14 @@
+{
+  "name": "Georgii",
+  "city": "SPb",
+  "age": 21,
+  "banks": [
+    "sber", "spb", "tinkoff"
+  ],
+  "university": {
+    "name": "ITMO University",
+    "city": "SPb"
+  },
+  "is_male": true,
+  "car": null
+}
